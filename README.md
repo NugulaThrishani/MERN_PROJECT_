@@ -1,6 +1,6 @@
 # AI-Based JOB PORTAL for Smart Allocation Engine 
 
-A comprehensive, AI-powered platform for automating internship matching under the Ministry of Corporate Affairs (MoCA), designed to win the Smart India Hackathon (SIH) 2024.
+A comprehensive, AI-powered platform for automating internship matching.
 
 ## 🚀 Features
 
