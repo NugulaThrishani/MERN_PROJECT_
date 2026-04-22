@@ -242,7 +242,6 @@ POST /api/analytics/report
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🏅 SIH 2024 Submission
 
 This project represents a complete solution for the PM Internship Scheme challenge, incorporating:
 
@@ -252,11 +251,10 @@ This project represents a complete solution for the PM Internship Scheme challen
 - ✅ National priorities (Digital India, inclusivity)
 - ✅ Production-ready code (Docker, CI/CD, monitoring)
 
-**Team**: [Your Team Name]  
+
 **Problem Statement**: AI-Based Smart Allocation Engine for PM Internship Scheme  
 **Category**: Software  
-**Theme**: Smart Automation
+
 
 ---
 
-*Built with ❤️ for Smart India Hackathon 2024*
